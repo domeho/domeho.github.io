@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://domeho.github.io/sitemap.txt
